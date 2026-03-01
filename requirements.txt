@@ -1,0 +1,4 @@
+gradio==5.22.0
+pytesseract==0.3.13
+Pillow>=10.4.0
+request==2.32.5
